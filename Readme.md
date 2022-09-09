@@ -32,12 +32,12 @@ HTML & CSS only...
 
 ## Screenshots
 
-### Login View
+### SignIN View
 
 ![App Screenshot](./img/SignIn.png)
 -
 
-### Signup View
+### SignUP View
 
 ![App Screenshot](./img/SignUp.png)
 -
