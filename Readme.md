@@ -35,12 +35,12 @@ HTML & CSS only...
 
 ### Login View
 
-![App Screenshot](https://github.com/ayeujjawalsingh/Hungry/blob/master/img/Screenshot%20(24).png)
+![App Screenshot](./img/SignIn.png)
 -
 
 ### Signup View
 
-![App Screenshot](https://github.com/ayeujjawalsingh/Hungry/blob/master/img/Screenshot%20(25).png)
+![App Screenshot](./img/SignUp.png)
 -
 
 ## Feedback
